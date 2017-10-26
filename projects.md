@@ -12,7 +12,7 @@ services used, as well as the project focus/goal.
 
 ### Current
 
-1. Android application for Sphero demonstration (subject to change)
+1. Android application for [Sphero](https://www.sphero.com/) demonstration (subject to change)
   * [Oval](https://sdk.sphero.com/robot-languages/oval-language/) (C-like) and/or JavaScript, Android Studio
 
 ### Past
@@ -22,18 +22,18 @@ services used, as well as the project focus/goal.
   * Agile software development methodology, MVC pattern
 2. Autonomous guidance with both fixed and mobile hazards
   * C++, [Robot Operating System (ROS) "Indigo Igloo"](http://ros.org/)
-  * Heuristics and machine learning
+  * Heuristics, machine learning, topic-based publish–subscribe pattern
 3. Internet forum and mail system web app
   * PHP 5, MySQL, Bootstrap
   * Database design, file handling, session management
 4. Pairwise comparison web app
-  * Javascript, MongoDB, Blaze, [Meteor](https://www.meteor.com/), Google Cloud Platform
-  * MVC, RESTful web services, cloud deployment
+  * JavaScript, MongoDB, Blaze, [Meteor](https://www.meteor.com/), Google Cloud Platform
+  * MVC, RESTful web services, topic-based publish–subscribe pattern, cloud deployment
 5. Message board web app
-  * Javascript, jQuery, HTML 5, CSS
+  * JavaScript, jQuery, HTML 5, CSS
   * User interface accessibility and performance, DOM, AJAX
 6. Trivia with friends web app
-  * Javascript, WebSocket, Handlebars.js, [Ember.js](https://emberjs.com/), [Google Firebase](https://firebase.google.com/), OAuth (GitHub)
+  * JavaScript, WebSocket, Handlebars.js, [Ember.js](https://emberjs.com/), [Google Firebase](https://firebase.google.com/), OAuth (GitHub)
   * MVVM pattern, real-time app, server-sent events, external API integration
 
 This list is not comprehensive. Ask me about others or keep watch for additions!
