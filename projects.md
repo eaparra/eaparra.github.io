@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 Below are some of the course projects Eric has taken part in at CSUF. All of
-these projects were a collaborative efforts; he served a key role as either
+these projects were collaborative efforts; he served a key role as either
 project manager, lead developer, and/or lead presenter for many of them. Each
 project description is followed by a list of languages, frameworks, and
 services used, as well as the project focus/goal.
