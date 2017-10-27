@@ -18,7 +18,7 @@ services used, in addition to the project focus or goal.
 
 ### Past
 
-1. Business Intelligence and Human Resource [web]
+1. Business Intelligence and Human Resource portal [web]
   * PHP 5, MySQL, Bootstrap 3, Eloquent ORM, [Laravel 5.3](https://laravel.com/)
   * Agile software development methodology, MVC pattern
 2. Autonomous guidance with both fixed and mobile hazards [catkin package]
@@ -27,7 +27,7 @@ services used, in addition to the project focus or goal.
 3. Internet forum and mail system [web]
   * PHP 5, MySQL, Bootstrap 4
   * Database design, file handling, session management, user authentication
-4. Pairwise comparison [web]
+4. Pairwise comparison social media app [web]
   * JavaScript, MongoDB, Blaze, Docker, [Meteor](https://www.meteor.com/), Google Cloud Platform
   * MVC, RESTful web services, topic-based publish–subscribe pattern, HTTPS, cloud deployment
 5. Message board [web]
