@@ -11,13 +11,6 @@ services used, in addition to the project focus or goal.
 
 *Last Updated: {{ site.time | date_to_long_string }}*
 
-### Current
-
-1. Android application for [Sphero](https://www.sphero.com/) demonstration (subject to change)
-  * [Oval](https://sdk.sphero.com/robot-languages/oval-language/) (C-like) and/or JavaScript, Android Studio
-
-### Past
-
 1. Business Intelligence and Human Resource portal [web]
   * PHP 5, MySQL, Bootstrap 3, Eloquent ORM, [Laravel 5.3](https://laravel.com/)
   * Agile software development methodology, MVC pattern
@@ -36,5 +29,11 @@ services used, in addition to the project focus or goal.
 6. Trivia with friends [web]
   * JavaScript, WebSocket, Handlebars.js, [Ember.js](https://emberjs.com/), [Google Firebase](https://firebase.google.com/), OAuth (GitHub)
   * MVVM pattern, real-time app, server-sent events, external API integration
+7. Programming demo for [Sphero](https://www.sphero.com/) [cli]
+  * JavaScript, [Cylon.js](https://cylonjs.com/)
 
-This list is not comprehensive. Ask me about others or keep watch for additions!
+
+# Publications
+In collaboration with Children's National Medical Center and George Washington University School of Medicine, Eric implemented a [WordPress](https://wordpress.com/) training portal for pediatric radiologists.
+
+Park, B. D., Shalaby-Rana, E., Hardy, A., Parra, E. A., Sze, R. S. (2012). *A just-in-time e-learning modified barium swallow program improves interpretive competency in pediatric radiologists*. Abstract submitted for presentation at the annual meeting of the American Roentgen Ray Society, Washington, DC.
