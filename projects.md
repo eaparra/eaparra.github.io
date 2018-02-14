@@ -34,6 +34,6 @@ services used, in addition to the project focus or goal.
 
 
 # Publications
-In collaboration with Children's National Medical Center and George Washington University School of Medicine, Eric implemented a [WordPress](https://wordpress.com/) training portal for pediatric radiologists.
+In collaboration with [Children's National Medical Center](https://childrensnational.org/) and [George Washington University School of Medicine and Health Sciences](https://smhs.gwu.edu/), Eric implemented a WordPress training portal for pediatric radiologists.
 
 Park, B. D., Shalaby-Rana, E., Hardy, A., Parra, E. A., Sze, R. S. (2012). *A just-in-time e-learning modified barium swallow program improves interpretive competency in pediatric radiologists*. Abstract submitted for presentation at the annual meeting of the American Roentgen Ray Society, Washington, DC.
