@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-[View Resume, PDF](https://drive.google.com/file/d/0B_RnBTyLgo06ZDh2Z2ZtS3NMYVU/view?usp=sharing)
+[View Resume (PDF)](https://drive.google.com/file/d/1Q7SV0504wIERes5O8WGhCGs6nigZG9D3/view?usp=sharing)
 
 **Eric Parra** is recent graduate in Computer Science (B.S.) from [California State University, Fullerton](http://fullerton.edu) with a concentration in [Internet and Enterprise Computing Technologies](http://catalog.fullerton.edu/preview_program.php?catoid=16&poid=7605&returnto=1922#InternetAndEnterpriseComputingTechnologies). Eric also holds an A.S. degree in Biology from [Orange Coast College](http://www.orangecoastcollege.edu).
 
